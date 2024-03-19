@@ -1,0 +1,9 @@
+Code by Abdul Hadi 101232811 @ Carleton University
+Instructions:
+Ensure psql is installed. Once confirmed, run from this directory (q1):
+    pip install -r requirements. txt
+
+Next, update USER_PARAMS in db/__init__.py with your user credentials. You may need to update your table permissions to be able to generate the initial database. Once confirmed, from the q1, run:
+    python main.py
+
+https://youtu.be/qtL7iwhg9wA
